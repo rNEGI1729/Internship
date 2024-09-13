@@ -1,4 +1,4 @@
-Project Description:
+# Project Description:
 
 In this internship project, I worked on analyzing a comprehensive COVID-19 dataset using a combination of SQL and Python. The primary objective was to clean the raw data, extract key insights, and perform statistical analysis to understand the spread of the virus over time and across different regions. The dataset, originally in CSV format, contained records of confirmed cases, deaths, and recoveries, along with geographic and date information for various countries and provinces.
 
@@ -10,7 +10,7 @@ One of the key parts of the analysis involved statistical calculations. I comput
 
 The final step was to analyze how the pandemic evolved over the years 2020 and 2021. I extracted the minimum and maximum values for confirmed cases, deaths, and recoveries in each year, which showed the progression of the pandemic. Additionally, I used SQL queries to compute the total confirmed cases, deaths, and recoveries each month, offering a cumulative view of how the virus spread over time.
 
-Outcome of the Project:
+# Outcome of the Project:
 
 The project successfully achieved its goal of providing a detailed analysis of the COVID-19 pandemic. The dataset was cleaned, structured, and analyzed, yielding key insights into the pandemic’s timeline and geographical spread. The monthly and yearly summaries allowed for easy identification of peak infection periods and recovery rates. Variance and standard deviation calculations offered deeper insights into how the pandemic's impact varied across different regions and times.
 
