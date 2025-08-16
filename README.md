@@ -13,6 +13,13 @@ The project delivered a structured and cleaned dataset with clear insights into 
 This project showcased the effectiveness of combining SQL for querying with Python for advanced analytics, emphasizing the role of data analysis in public health decision-making.
 
 
+
+
+********************************************************************************************************************************************************************************************************************
+
+
+
+
 ## Project Description for PowerBI Dashboard
 
 The 2024 Lok Sabha Election Dashboard is an interactive data visualization project that presents insights into the 2024 Indian General Elections. It provides a clear and dynamic way to analyze voting patterns, candidate performance, seat distribution, and regional trends across India.
